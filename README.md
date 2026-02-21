@@ -1,4 +1,3 @@
-# E-LEARNING-PLATFORM-UI
 COMPANY: CODTECH IT SOLUTIONS
 NAME: HITESH KUMAR CHOUDHARY
 INTERN ID: CTIS4019
@@ -6,9 +5,11 @@ DOMAIN: FRONTEND DEVELOPER
 MENTOR: NEELA SANTOSH
 
 #DESCRIPTION:
-This project is an E-Learning Platform front-end website created to simulate an online learning system. The website allows users to view course listings, open a course, watch embedded learning videos, and track their completion progress.
-The website contains multiple pages such as Home, Courses, Video Player, and Dashboard with smooth navigation between pages. The user can mark a lesson as completed and the progress percentage updates dynamically using browser storage.
-The main purpose of this project is to demonstrate frontend development skills, clean layout design, page navigation, and interactive UI functionality without using any backend database. The interface is lightweight, simple, and works properly across different screen sizes including mobile and desktop devices.
+This project is an E-Learning Platform front-end website created to simulate a modern online learning system. The website allows users to browse course listings, open a specific course, watch embedded learning videos, and track their completion progress in a simple and user-friendly environment. The main objective of this project is to demonstrate practical front-end development skills and understand how real learning portals function from the user interface perspective.
+
+The website contains multiple pages such as Home, Courses, Video Player, and Dashboard with smooth navigation between sections. Users can easily move from course selection to lesson viewing without confusion. Inside each course, the learner can mark a lesson as completed and the progress percentage updates dynamically using browser local storage. Because of this, progress remains saved even after refreshing or reopening the website.
+
+The design focuses on a clean layout, proper spacing, readable typography, and responsive behavior across different devices. The platform works properly on both desktop and mobile screens without breaking the structure. This project highlights UI structuring, DOM manipulation, navigation flow, and interactive functionality without using any backend database. It also represents how lightweight educational interfaces can be built efficiently using only core front-end technologies.
 
 #TECHNOLOGY USED:
 HTML: page structure and navigation
